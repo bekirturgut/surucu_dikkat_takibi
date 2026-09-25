@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720" role="img" aria-labelledby="title desc">
+  <title id="title">Sürücü Dikkat Takibi örnek ekranı</title>
+  <desc id="desc">Temsili yüz görüntüsü, işaret noktaları, durum paneli ve risk göstergesi.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#192833"/><stop offset="1" stop-color="#344d58"/></linearGradient></defs>
+  <rect width="1080" height="720" fill="url(#bg)"/>
+  <path d="M0 550 Q540 440 1080 550 V720 H0Z" fill="#14242c" opacity=".5"/>
+  <path d="M245 720 Q260 540 435 528 L645 528 Q820 540 835 720" fill="#526b7c"/>
+  <rect x="485" y="463" width="110" height="106" rx="36" fill="#b88064"/>
+  <ellipse cx="540" cy="355" rx="167" ry="205" fill="#c99475"/>
+  <path d="M374 329 Q345 155 472 125 Q569 82 670 168 Q711 219 702 330 Q670 228 621 203 Q527 243 421 205 Q391 274 374 329Z" fill="#20252b"/>
+  <path d="M441 359 Q475 339 507 358 M573 358 Q608 339 640 358" fill="none" stroke="#443d38" stroke-width="7" stroke-linecap="round"/>
+  <path d="M535 366 L524 418 Q540 428 556 417" fill="none" stroke="#9d674e" stroke-width="5"/>
+  <path d="M490 461 Q541 477 591 461" fill="none" stroke="#854c4b" stroke-width="8" stroke-linecap="round"/>
+  <g fill="#12d96b"><circle cx="439" cy="357" r="5"/><circle cx="460" cy="345" r="5"/><circle cx="481" cy="345" r="5"/><circle cx="506" cy="357" r="5"/><circle cx="481" cy="363" r="5"/><circle cx="460" cy="363" r="5"/></g>
+  <g fill="#eb4ee7"><circle cx="489" cy="460" r="5"/><circle cx="540" cy="453" r="5"/><circle cx="591" cy="460" r="5"/><circle cx="540" cy="475" r="5"/></g>
+  <g fill="#f6de35"><circle cx="540" cy="418" r="6"/><circle cx="540" cy="553" r="6"/></g>
+  <g fill="#46d6e3"><circle cx="375" cy="365" r="6"/><circle cx="705" cy="365" r="6"/><circle cx="540" cy="149" r="6"/></g>
+  <rect x="10" y="10" width="250" height="130" rx="8" fill="#071218" opacity=".77"/>
+  <rect x="860" y="10" width="210" height="140" rx="8" fill="#071218" opacity=".77"/>
+  <g fill="#fff" font-family="Arial, sans-serif" font-size="23" font-weight="bold"><text x="20" y="43">Goz: ACIK</text><text x="20" y="75">Esneme: 0</text><text x="20" y="107">Bas: NORMAL</text><text x="880" y="43">Risk:</text><text x="880" y="105">Skor: 100</text></g>
+  <text x="880" y="76" fill="#16dd70" font-family="Arial, sans-serif" font-size="28" font-weight="bold">NORMAL</text>
+  <rect x="880" y="119" width="150" height="20" fill="none" stroke="#fff" stroke-width="2"/><rect x="881" y="120" width="148" height="18" fill="#16dd70"/>
+  <text x="965" y="694" fill="#fff" font-family="Arial, sans-serif" font-size="21" font-weight="bold">FPS: 30</text>
+  <rect x="355" y="675" width="370" height="29" rx="5" fill="#071218" opacity=".68"/>
+  <text x="540" y="696" text-anchor="middle" fill="#dce8ed" font-family="Arial, sans-serif" font-size="17">TEMSİLİ ARAYÜZ GÖRSELİ</text>
+</svg>
